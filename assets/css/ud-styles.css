@@ -13,9 +13,9 @@
 @import url("https://fonts.googleapis.com/css2?family=Inter:wght@200;300;400;500;600;700;800;900&display=swap");
 :root {
   --font: "Inter", sans-serif;
-  --body-color: #637381;
-  --heading-color: #212b36;
-  --primary-color: #3056d3;
+  --body-color: #3C5A72;
+  --heading-color: #213242;
+  --primary-color: #517490;
   --white: #ffffff;
 }
 
@@ -558,7 +558,7 @@ p {
   text-align: center;
   color: var(--white);
   opacity: 0.8;
-  max-width: 600px;
+  max-width: 700px;
   margin: auto;
   margin-bottom: 30px;
 }
