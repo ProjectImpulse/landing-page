@@ -6,7 +6,7 @@
 
 <Footer footerType="logo">
   <div class="sm:flex sm:items-center sm:justify-between foot">
-    <FooterBrand href="https://kuberapp.net" src="/src/lib/images/kuber-logos.png" alt="Kuber Logo"/>
+    <FooterBrand href="https://kuberapp.net" src="./src/lib/images/figma/kuber-logos.png" alt="Kuber Logo"/>
     <FooterLinkGroup ulClass="flex flex-wrap items-center mb-6 text-sm sm:mb-0 ">
       <FooterLink href="https://blog.kuberapp.net" class="text-black-important">About</FooterLink>
       <FooterLink href="https://blog.kuberapp.net/legal/privacy-policy" class="text-black-important">Privacy Policy</FooterLink>
