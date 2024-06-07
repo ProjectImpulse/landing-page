@@ -14,6 +14,7 @@
     </FooterLinkGroup>
   </div>
   
+  
   <div class="foot1">
     <FooterCopyright href="/" class="text-black" by="Project Impulse" />
     <hr class="my-6 border-gray-200 sm:mx-auto dark:border-gray-700 lg:my-8" />
