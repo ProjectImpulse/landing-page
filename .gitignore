@@ -1,4 +1,4 @@
 README.md
 LICENCE
-/node_modules/
-.svelte-kit/
+./.svelte-kit
+./node_modules
