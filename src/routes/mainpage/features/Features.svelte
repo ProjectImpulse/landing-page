@@ -47,7 +47,7 @@
         },
         {
             featureList: [
-                "Intuituve Flowchart Interface",
+                "Intuitive Flowchart Interface",
                 "Directly connect your accounts",
                 "Suggestions to achieve your goals more efficiently",
                 "View your short-term and long-term goals in one place",
@@ -60,7 +60,7 @@
             featureList: [
                 "Comnpare with your current spending timeline",
                 "See how your spending habits have changed over time",
-                "View how your goals mpact your financial growth",
+                "View how your goals impact your financial growth",
             ],
             description:
                 "Get projections on ideal timeline for networth growth, so you can plan your financial future with confidence.",
