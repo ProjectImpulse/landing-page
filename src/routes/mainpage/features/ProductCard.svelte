@@ -10,6 +10,9 @@
         <h4 class="text-2xl sm:text-3xl md:text-4xl max-w-[1000px] w-full font-medium relative pr-10">
             <slot />
         </h4>
+        <div class="flex items-center">
+            <Button size="xl" style="font-size: 1.125rem;" color="dark" href="https://demo.kuberapp.net"> Try our Demo</Button>
+        </div>
         <p>{productFeature.description}</p>
         <div class="flex flex-col gap-3">
             {#each productFeature.featureList as listItem}
@@ -20,9 +23,6 @@
                     <p>{listItem}</p>
                 </div>
             {/each}
-        </div>
-        <div class="flex items-center">
-            <Button outline style="text-decoration:none;" color="green" href="https://demo.kuberapp.net"> Try our Demo</Button>
         </div>
     </div>
     <div class={"flex flex-col dropShadow overflow-hidden border rounded-lg "}>

@@ -2,7 +2,7 @@
 
 </script>
   
-<div class="flex flex-col gap-10 flex-1 items-center justify-center p-40 md:pb-14 bg-white">
+<div class="flex flex-col gap-10 flex-1 items-center justify-center p-20 md:pb-14 bg-white">
   <h2 class="text-5xl sm:text-6xl md:text-7xl lg:text-8xl max-w-[1200px] mx-auto w-full text-center font-semibold">
       <span class="text-blue-900">Personal Finance</span>
       <span class="text-slate-600 line-through">Is Hard</span><br />

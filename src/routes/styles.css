@@ -110,6 +110,14 @@ button:focus:not(:focus-visible) {
 	white-space: nowrap;
 }
 
+.center {
+	text-align: center;
+	display: flex;
+	/* flex-flow: column; */
+	justify-content: center;
+	padding-bottom: 30px;
+}
+
 .waitlist {
 	margin: var(--column-margin-top);
 	padding-left: 50%;
