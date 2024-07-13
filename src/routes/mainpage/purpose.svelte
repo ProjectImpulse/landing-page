@@ -2,7 +2,7 @@
     import { Button, Card, Heading, P, Span, Mark } from 'flowbite-svelte';
 </script>
 
-<div class="page-pad bg-white pt-8 pb-4">
+<div class="page-pad bg-white pb-4">
 	<Card size="xxl" class="bg-black">
 		<Heading tag="h1" class="mb-8 leading-[75px] our-text text-white text-3xl sm:text-4xl md:text-5xl lg:text-6xl">
 			Help us in removing <Span underline class="text-white" decorationClass="decoration-8 decoration-red-600 dark:decoration-red-600">Financial Anxiety</Span>, from <Mark class="bg-blue-800">your life</Mark>

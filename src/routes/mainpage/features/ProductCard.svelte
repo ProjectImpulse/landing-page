@@ -7,7 +7,7 @@
 <div class="grid grid-cols-1 md:grid-cols-2 gap-14 md:gap-14 lg:gap-20 relative text-base">
     <div class={"flex flex-col gap-8 md:gap-10 pt-8 sm:pt-10 "  +
     (index % 2 === 1 ? "md:order-2" : "")}>
-        <h4 class="text-2xl sm:text-3xl md:text-4xl max-w-[1000px] w-full font-medium relative pr-10 text-center md:text-left">
+        <h4 class="text-2xl sm:text-3xl md:text-4xl max-w-none w-full font-medium relative text-center md:text-left">
             <slot />
         </h4>
         <div class="flex justify-center md:justify-start items-center">
@@ -16,7 +16,7 @@
         <p class="text-center md:text-left">{productFeature.description}</p>
         <div class="flex flex-col gap-3">
             {#each productFeature.featureList as listItem}
-                <div class="flex gap-2 items-center justify-center md:justify-start">
+                <div class="flex gap-2 items-center">
                     <div class="grid place-items-center px-1.5 text-xs sm:text-sm aspect-square rounded-full border-[1.5px] bg-white border-solid border-green-300">
                         <i class="fa-solid fa-bolt text-green-400"></i>
                     </div>
