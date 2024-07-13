@@ -19,10 +19,10 @@
 	<Hero />
 	<Pics />
 	<div class="bg-white">
-	<Features />
+		<Features />
 	</div>
 	<div class="pl-4 bg-white">
-	<Purpose />
+		<Purpose />
 	</div>
 	<Waitlist />
 </section>
