@@ -4,7 +4,7 @@
   
 <section id="waitlist">
     <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4 bg-white page-pad">
-		<div class="pt-2 pl-4 col-span-full">
+		<div class="pt-2 col-span-full">
 			<Card size='xxl'>
 				<div class="grid grid-cols-1 md:grid-cols-4 gap-4 pad-container">
 					<div class="p-4 md:p-[25%] md:col-span-2"> 

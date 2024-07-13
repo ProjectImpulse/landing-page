@@ -20,7 +20,7 @@
 	<div class="bg-white">
 		<Features />
 	</div>
-	<div class="pl-4 bg-white">
+	<div class="bg-white">
 		<Purpose />
 	</div>
 	<Waitlist />
