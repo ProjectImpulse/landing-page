@@ -17,7 +17,7 @@
 		<NavUl class="order-1 md:flex">
 			<NavLi href="#features">Features</NavLi>
 			<NavLi href="https://blog.kuberapp.net/">Blog</NavLi>
-			<NavLi href="https://demo.kuberapp.net/">Demo</NavLi>
+			<NavLi href="https://demo.kuberapp.net/" target="_blank">Demo</NavLi>
 			<NavLi href="#waitlist">Contact</NavLi>
 		</NavUl>
 	</NavContainer>
