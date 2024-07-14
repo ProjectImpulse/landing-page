@@ -1,6 +1,6 @@
 <script>
-    import { Button, DeviceMockup, P } from 'flowbite-svelte';
-  </script>
+    import { Button, DeviceMockup } from 'flowbite-svelte';
+</script>
 
 <div class="bg-white pb-16 page-pad">
     <div class="center" style="padding-bottom: 40px;">

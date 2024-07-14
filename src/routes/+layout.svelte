@@ -2,7 +2,6 @@
 	import '../app.css';
 	import Header from './mainpage/Header.svelte';
 	import Footer from './mainpage/Footer.svelte';
-	import Waitlist from './mainpage/waitlist.svelte';
 	import './styles.css';
 </script>
 
@@ -11,10 +10,6 @@
 	<Header/>
 </div>
 
-<section >
-	<!-- <Waitlist></Waitlist> -->
-</section>
-
 <slot />
 
-<Footer></Footer>
+<Footer/>

@@ -3,9 +3,9 @@
 </script>
 
 <Footer footerType="logo" class="bg-white dark:bg-gray-600">
-	<div class="px-5 rounded-lg bg-white dark:bg-gray-600 flex flex-col items-center justify-between sm:flex-row sm:items-center sm:justify-between">
+	<div class="rounded-lg bg-white dark:bg-gray-600 flex flex-col items-center justify-between sm:flex-row sm:items-center sm:justify-between">
 		<FooterBrand href="https://kuberapp.net" src="/kuber-logos.png" alt="Kuber Logo" />
-		<FooterLinkGroup ulClass="flex flex-wrap items-center mb-6 text-sm text-gray-500 sm:mb-0 dark:text-gray-400">
+		<FooterLinkGroup ulClass="flex flex-wrap items-center text-sm text-gray-500 dark:text-gray-400">
 			<FooterLink href="https://blog.kuberapp.net" class="text-black-important mb-2 sm:mb-0 sm:mr-4">About</FooterLink>
 			<FooterLink href="https://blog.kuberapp.net/legal/privacy-policy" class="text-black-important mb-2 sm:mb-0 sm:mr-4">Privacy Policy</FooterLink>
 			<FooterLink href="https://blog.kuberapp.net/legal/cookies-policy" class="text-black-important mb-2 sm:mb-0 sm:mr-4">Cookies Policy</FooterLink>
