@@ -4,7 +4,7 @@
 
 <Footer footerType="logo" class="bg-white dark:bg-gray-600">
 	<div class="rounded-lg bg-white dark:bg-gray-600 flex flex-col items-center justify-between sm:flex-row sm:items-center sm:justify-between">
-		<FooterBrand href="#top" src="/kuber-logos.png" alt="Kuber Logo" />
+		<FooterBrand href="#" src="/kuber-logos.png" alt="Kuber Logo" />
 		<FooterLinkGroup ulClass="flex flex-wrap items-center text-sm text-gray-500 dark:text-gray-400">
 			<FooterLink href="https://blog.kuberapp.net" class="text-black-important mb-2 sm:mb-0 sm:mr-4">About</FooterLink>
 			<FooterLink href="https://blog.kuberapp.net/legal/privacy-policy" class="text-black-important mb-2 sm:mb-0 sm:mr-4">Privacy Policy</FooterLink>
