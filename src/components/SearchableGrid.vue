@@ -4,8 +4,14 @@ import Fuse from 'fuse.js';
 import { Dialog, DialogContent, DialogDescription, DialogHeader, DialogTitle, DialogTrigger } from '@/components/ui/dialog';
 import glossary from '../assets/combined_glossary.json';
 
+// Define the structure of your glossary terms
+interface Term {
+  term: string;
+  definition: string;
+}
+
 // Sample financial terms data
-const terms = glossary;
+const terms: Term[] = glossary;
 
 // Fuse.js options for fuzzy search
 const fuseOptions = {
@@ -17,10 +23,9 @@ const fuseOptions = {
 const fuse = new Fuse(terms, fuseOptions);
 
 // Reactive data
-const searchQuery = ref("");
-const filteredTerms = ref(terms);
-const selectedTerm = ref(null);
-const openDialogs = ref({}); // Track open state for each term
+const searchQuery = ref<string>("");
+const filteredTerms = ref<Term[]>(terms);
+const openDialogs = ref<{ [key: string]: boolean }>({}); // Track open state for each term
 
 // Search function
 const search = () => {
@@ -32,7 +37,7 @@ const search = () => {
 };
 
 // Open or close the dialog for a specific term
-const toggleDialog = (term) => {
+const toggleDialog = (term: Term) => {
   openDialogs.value[term.term] = !openDialogs.value[term.term];
 };
 </script>
