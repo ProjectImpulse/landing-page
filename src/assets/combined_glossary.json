@@ -1,0 +1,383 @@
+[
+  {
+    "term": "Asset Allocation",
+    "definition": "The process of dividing investments among different asset categories such as stocks, bonds, and cash to optimize returns."
+  },
+  {
+    "term": "At the Money (ATM)",
+    "definition": "An options contract where the strike price is the same as the market price of the underlying asset."
+  },
+  {
+    "term": "Bad Loans",
+    "definition": "Loans that are in default or close to being in default, typically called non-performing assets (NPAs)."
+  },
+  {
+    "term": "Banking Ombudsman",
+    "definition": "A grievance redressal mechanism provided by the Reserve Bank of India to resolve complaints related to banking services."
+  },
+  {
+    "term": "Base Rate",
+    "definition": "The minimum interest rate set by the Reserve Bank of India below which banks are not allowed to lend."
+  },
+  {
+    "term": "Benchmark Prime Lending Rate (BPLR)",
+    "definition": "The interest rate at which commercial banks lend to their most creditworthy customers."
+  },
+  {
+    "term": "Blue Chip Stocks",
+    "definition": "Stocks of well-established companies with a history of stable earnings and dividend payments."
+  },
+  {
+    "term": "Bombay Stock Exchange (BSE)",
+    "definition": "One of the oldest stock exchanges in India, where securities such as shares, bonds, and other financial instruments are traded."
+  },
+  {
+    "term": "Bridge Loan",
+    "definition": "A short-term loan that provides quick capital until permanent financing is secured."
+  },
+  {
+    "term": "Business Loan",
+    "definition": "A loan provided for the establishment, expansion, or operation of a business."
+  },
+  {
+    "term": "Call Money Rate",
+    "definition": "The interest rate on overnight loans in the money market."
+  },
+  {
+    "term": "Capital Market",
+    "definition": "A market where buyers and sellers engage in the trade of financial securities like bonds and stocks."
+  },
+  {
+    "term": "Cash Credit",
+    "definition": "A short-term loan provided to a company to meet its working capital needs."
+  },
+  {
+    "term": "Central Bank",
+    "definition": "The national bank of a country that manages monetary policy and regulates financial institutions."
+  },
+  {
+    "term": "Commercial Paper",
+    "definition": "An unsecured promissory note with a fixed maturity of 1 to 364 days issued by companies to raise funds."
+  },
+  {
+    "term": "Commodity Market",
+    "definition": "A market that trades in primary products rather than manufactured goods, such as agricultural products, metals, and energy."
+  },
+  {
+    "term": "Consumer Price Index (CPI)",
+    "definition": "A measure that examines the weighted average of prices of a basket of consumer goods and services."
+  },
+  {
+    "term": "Corporate Governance",
+    "definition": "The system of rules, practices, and processes by which a company is directed and controlled."
+  },
+  {
+    "term": "Credit Rating",
+    "definition": "An evaluation of the credit risk of a borrower, predicting their ability to pay back the debt."
+  },
+  {
+    "term": "Debt to Equity Ratio",
+    "definition": "A financial ratio indicating the relative proportion of shareholders' equity and debt used to finance a company's assets."
+  },
+  {
+    "term": "Demat Account",
+    "definition": "An account that allows investors to hold shares in electronic form and facilitates easy transfer and trading of securities."
+  },
+  {
+    "term": "Derivatives",
+    "definition": "Financial contracts whose value is derived from the value of an underlying asset such as stocks, bonds, or commodities."
+  },
+  {
+    "term": "Digital Banking",
+    "definition": "Banking services provided through digital platforms, including mobile and internet banking."
+  },
+  {
+    "term": "Direct Benefit Transfer (DBT)",
+    "definition": "A scheme in India to transfer subsidies directly into the bank accounts of beneficiaries."
+  },
+  {
+    "term": "Dividend Yield",
+    "definition": "A financial ratio that shows how much a company pays out in dividends each year relative to its stock price."
+  },
+  {
+    "term": "Electronic Clearing Service (ECS)",
+    "definition": "An electronic mode of funds transfer from one bank account to another, commonly used for periodic transactions such as utility bill payments."
+  },
+  {
+    "term": "Equity Linked Savings Scheme (ELSS)",
+    "definition": "A mutual fund investment that provides tax benefits under Section 80C of the Income Tax Act and invests primarily in equities."
+  },
+  {
+    "term": "Financial Inclusion",
+    "definition": "The availability of affordable financial services such as banking, credit, and insurance to all sections of society."
+  },
+  {
+    "term": "Fixed Deposit (FD)",
+    "definition": "An investment in which money is deposited for a fixed period at a pre-agreed interest rate."
+  },
+  {
+    "term": "Foreign Direct Investment (FDI)",
+    "definition": "Investment made by a foreign entity in the business interests of a domestic country."
+  },
+  {
+    "term": "Foreign Exchange Management Act (FEMA)",
+    "definition": "An act in India that regulates foreign exchange transactions to facilitate external trade and payments."
+  },
+  {
+    "term": "Futures Market",
+    "definition": "A financial market where participants buy and sell contracts for the delivery of commodities or financial instruments at a future date."
+  },
+  {
+    "term": "Goods and Services Tax (GST)",
+    "definition": "A value-added tax levied on most goods and services sold for domestic consumption in India."
+  },
+  {
+    "term": "Government Securities (G-Secs)",
+    "definition": "Tradable instruments issued by the government to borrow money, typically in the form of bonds."
+  },
+  {
+    "term": "Growth Rate",
+    "definition": "The rate at which a company or economy increases its revenue or output over a specified period."
+  },
+  {
+    "term": "Hedge Fund",
+    "definition": "A private investment fund that engages in more complex strategies, including leveraging and derivatives, to achieve higher returns."
+  },
+  {
+    "term": "Inflation Rate",
+    "definition": "The percentage increase in the price level of goods and services over a specified period."
+  },
+  {
+    "term": "Initial Public Offering (IPO)",
+    "definition": "The first time a company offers its shares to the public in the stock market."
+  },
+  {
+    "term": "Insolvency",
+    "definition": "The state of being unable to pay debts owed, leading to legal proceedings for bankruptcy."
+  },
+  {
+    "term": "Interest Rate",
+    "definition": "The amount charged by a lender to a borrower for the use of assets, expressed as a percentage of the principal."
+  },
+  {
+    "term": "Intraday Trading",
+    "definition": "The act of buying and selling financial instruments within the same trading day."
+  },
+  {
+    "term": "KYC (Know Your Customer)",
+    "definition": "A process by which financial institutions verify the identity of their clients to prevent illegal activities such as money laundering."
+  },
+  {
+    "term": "Liquid Fund",
+    "definition": "A type of mutual fund that invests in short-term money market instruments and provides high liquidity with lower risks."
+  },
+  {
+    "term": "Lock-In Period",
+    "definition": "A period during which an investor cannot sell or withdraw investments."
+  },
+  {
+    "term": "Microfinance",
+    "definition": "Financial services, such as small loans, provided to low-income individuals or those without access to traditional banking."
+  },
+  {
+    "term": "Money Laundering",
+    "definition": "The process of concealing the origins of money obtained illegally by passing it through legitimate financial transactions."
+  },
+  {
+    "term": "Mutual Funds",
+    "definition": "Investment vehicles that pool money from multiple investors to purchase a diversified portfolio of stocks, bonds, or other securities."
+  },
+  {
+    "term": "National Electronic Funds Transfer (NEFT)",
+    "definition": "A nationwide payment system that facilitates the transfer of funds from one bank account to another on a one-to-one basis."
+  },
+  {
+    "term": "Net Asset Value (NAV)",
+    "definition": "The per-share value of a mutual fund, calculated by dividing the total value of the fund's assets by the number of shares."
+  },
+  {
+    "term": "Net Interest Margin (NIM)",
+    "definition": "A measure of the difference between interest income generated and interest paid out by financial institutions."
+  },
+  {
+    "term": "Net Worth",
+    "definition": "The total assets of an individual or company minus its total liabilities."
+  },
+  {
+    "term": "Non-Bank ATM (White Labelled ATM)",
+    "definition": "An ATM owned and operated by a non-banking entity but providing banking services to customers."
+  },
+  {
+    "term": "Non-Convertible Debentures (NCDs)",
+    "definition": "Fixed-income instruments that cannot be converted into equity shares, issued by companies to raise long-term capital."
+  },
+  {
+    "term": "Non-Performing Assets (NPA)",
+    "definition": "Loans or advances for which the borrower has stopped making interest or principal repayments for a period of 90 days or more."
+  },
+  {
+    "term": "Non-Resident Indian (NRI)",
+    "definition": "An Indian citizen who resides outside India for employment or other purposes but retains financial ties with India."
+  },
+  {
+    "term": "Off-Balance Sheet",
+    "definition": "Financial transactions that are not recorded on a company's balance sheet, such as leases or partnerships."
+  },
+  {
+    "term": "Online Banking",
+    "definition": "Banking services provided through the internet, allowing users to manage their accounts and make transactions digitally."
+  },
+  {
+    "term": "Online Trading",
+    "definition": "The act of buying and selling securities over the internet using a broker's trading platform."
+  },
+  {
+    "term": "Operational Risk",
+    "definition": "The risk of loss resulting from inadequate or failed internal processes, systems, or human factors in a company."
+  },
+  {
+    "term": "Overdraft",
+    "definition": "A facility that allows a bank account holder to withdraw more money than they have in their account, up to a pre-approved limit."
+  },
+  {
+    "term": "Part-prepayment",
+    "definition": "The act of making a partial repayment on a loan before the scheduled payment date, reducing the overall interest burden."
+  },
+  {
+    "term": "Pension Fund",
+    "definition": "A fund that collects and invests money to provide retirement income for employees after they retire."
+  },
+  {
+    "term": "Personal Identification Number (PIN)",
+    "definition": "A numeric password used to authenticate users for transactions at ATMs or for electronic fund transfers."
+  },
+  {
+    "term": "Portfolio Investment",
+    "definition": "An investment in securities, stocks, bonds, or other financial assets without the intention of gaining control over the company."
+  },
+  {
+    "term": "Power of Attorney",
+    "definition": "A legal document giving one person the authority to act on behalf of another in legal or financial matters."
+  },
+  {
+    "term": "Prepayment Penalty",
+    "definition": "A fee charged to a borrower who pays off a loan before its maturity date."
+  },
+  {
+    "term": "Prime Lending Rate (PLR)",
+    "definition": "The interest rate that banks charge to their most creditworthy customers, serving as a benchmark for other lending rates."
+  },
+  {
+    "term": "Public Provident Fund (PPF)",
+    "definition": "A government-backed, long-term savings scheme in India that offers tax benefits and fixed returns."
+  },
+  {
+    "term": "Real Time Gross Settlement (RTGS)",
+    "definition": "An electronic system that enables the real-time transfer of large sums of money between banks."
+  },
+  {
+    "term": "Recurring Deposit (RD)",
+    "definition": "A financial instrument offered by banks that allows customers to save money regularly with a fixed interest rate."
+  },
+  {
+    "term": "Return on Equity (ROE)",
+    "definition": "A financial ratio that measures a company's profitability by comparing net income to shareholders' equity."
+  },
+  {
+    "term": "Reverse Repo Rate",
+    "definition": "The rate at which the central bank of a country borrows money from commercial banks, used to control liquidity."
+  },
+  {
+    "term": "Risk Management",
+    "definition": "The process of identifying, assessing, and controlling financial, operational, or market risks to minimize losses."
+  },
+  {
+    "term": "Safe Deposit Locker",
+    "definition": "A secure locker provided by a bank where customers can store valuables like jewelry and documents."
+  },
+  {
+    "term": "Savings Account",
+    "definition": "A bank account that allows customers to deposit money, earn interest, and withdraw funds with certain limits."
+  },
+  {
+    "term": "Secured Loan",
+    "definition": "A loan backed by collateral, such as property or assets, which the lender can seize if the borrower defaults."
+  },
+  {
+    "term": "Securities and Exchange Board of India (SEBI)",
+    "definition": "The regulatory authority for the securities market in India, overseeing stock exchanges, brokers, and investors."
+  },
+  {
+    "term": "Security Deposit",
+    "definition": "A sum of money paid to a landlord or service provider as collateral to cover potential damages or unpaid dues."
+  },
+  {
+    "term": "Service Tax",
+    "definition": "A tax levied by the government on certain services provided by businesses in India."
+  },
+  {
+    "term": "Shareholder’s Equity",
+    "definition": "The owners' residual interest in the assets of a company after all liabilities have been paid."
+  },
+  {
+    "term": "Short-Term Loan",
+    "definition": "A loan with a maturity period of one year or less, typically used to meet short-term financial needs."
+  },
+  {
+    "term": "Sovereign Wealth Fund",
+    "definition": "A state-owned investment fund composed of money generated by the government, often from surplus reserves or revenue."
+  },
+  {
+    "term": "Statutory Liquidity Ratio (SLR)",
+    "definition": "A requirement for banks to maintain a certain percentage of their net demand and time liabilities in government securities."
+  },
+  {
+    "term": "Stock Market",
+    "definition": "A marketplace where stocks, bonds, and other securities are bought and sold by investors."
+  },
+  {
+    "term": "Stop Payment",
+    "definition": "An order given to a bank to stop the payment of a check or transaction that has not yet been processed."
+  },
+  {
+    "term": "Systematic Investment Plan (SIP)",
+    "definition": "An investment plan that allows individuals to invest small amounts regularly in mutual funds, typically monthly."
+  },
+  {
+    "term": "Tax Deducted at Source (TDS)",
+    "definition": "A method of tax collection where the payer deducts a certain percentage of tax before making a payment to the recipient."
+  },
+  {
+    "term": "Telebanking",
+    "definition": "A service provided by banks that allows customers to conduct transactions and access account information via telephone."
+  },
+  {
+    "term": "Two-factor Authentication",
+    "definition": "An additional security layer requiring not only a password but also a second factor, like a mobile code, for authentication."
+  },
+  {
+    "term": "Universal Banking",
+    "definition": "A model of banking that offers a wide range of financial services, including commercial, investment, and insurance services."
+  },
+  {
+    "term": "UPI (Unified Payments Interface)",
+    "definition": "A real-time payment system developed by the National Payments Corporation of India that allows instant money transfers between bank accounts."
+  },
+  {
+    "term": "Venture Capital",
+    "definition": "Financing provided by investors to startups and small businesses with high growth potential in exchange for equity."
+  },
+  {
+    "term": "Wealth Management",
+    "definition": "A service provided by financial institutions that offers investment advice, estate planning, and other financial planning services."
+  },
+  {
+    "term": "Wholesale Banking",
+    "definition": "Banking services provided to large institutional clients, such as corporations, government agencies, and other financial institutions."
+  },
+  {
+    "term": "Working Capital Loan",
+    "definition": "A loan provided to businesses to cover short-term operational needs, such as payroll or inventory costs."
+  }
+]
+

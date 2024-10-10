@@ -1,0 +1,83 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  scroll-behavior: smooth;
+}
+
+/* Customized theme with updated .dark mode */
+@layer base {
+  :root {
+    --background: 220 15% 98%; /* Light blue background with a soft feel */
+    --foreground: 220 30% 12%; /* Deep royal blue text for contrast */
+
+    --muted: 220 10% 92%; /* Muted blue for subtle UI elements */
+    --muted-foreground: 220 20% 45%; /* Slightly darker muted text */
+
+    --popover: 220 15% 98%; /* Same as background for consistency */
+    --popover-foreground: 220 30% 12%; /* Consistent with text color */
+
+    --card: 220 10% 95%; /* Slightly darker card for depth */
+    --card-foreground: 220 30% 12%; /* Matching the text color */
+
+    --border: 220 12% 90%; /* Softer royal blue for borders */
+    --input: 220 12% 90%; /* Consistent with borders */
+
+    --primary: 220 60% 45%; /* Rich royal blue for primary buttons */
+    --primary-foreground: 0 0% 98%; /* White text for legibility */
+
+    --secondary: 45 90% 60%; /* Royal gold for secondary buttons */
+    --secondary-foreground: 220 30% 12%; /* Darker blue text for contrast */
+
+    --accent: 45 85% 55%; /* Soft gold accents */
+    --accent-foreground: 220 30% 12%; /* Darker blue for readability */
+
+    --destructive: 0 84.2% 60.2%; /* Red for destructive actions */
+    --destructive-foreground: 0 0% 98%; /* White for readability */
+
+    --ring: 220 30% 12%; /* Darker blue for focus rings */
+
+    --radius: 0.5rem;
+  }
+
+  .dark {
+    --background: 220 20% 15%; /* Deep blue for dark mode background */
+    --foreground: 0 0% 94%; /* Off-white for text contrast */
+
+    --muted: 220 25% 20%; /* Darker muted blue */
+    --muted-foreground: 0 0% 85%; /* Off-white muted text */
+
+    --popover: 220 20% 15%; /* Matching background for consistency */
+    --popover-foreground: 0 0% 94%; /* Off-white for text */
+
+    --card: 220 25% 18%; /* Darker card background for depth */
+    --card-foreground: 0 0% 94%; /* Off-white text for better contrast */
+
+    --border: 220 20% 20%; /* Soft dark blue borders */
+    --input: 220 20% 20%; /* Consistent with borders */
+
+    --primary: 220 60% 55%; /* Royal blue for primary buttons */
+    --primary-foreground: 0 0% 94%; /* Off-white for primary button text */
+
+    --secondary: 45 90% 70%; /* Royal gold for secondary buttons */
+    --secondary-foreground: 0 0% 94%; /* Off-white text for secondary buttons */
+
+    --accent: 45 85% 65%; /* Rich gold accents */
+    --accent-foreground: 0 0% 94%; /* Off-white text for accents */
+
+    --destructive: 0 62.8% 30.6%; /* Red for destructive actions */
+    --destructive-foreground: 0 0% 94%; /* Off-white for destructive action text */
+
+    --ring: 45 90% 60%; /* Gold focus ring for a luxurious feel */
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+  body {
+    @apply bg-background text-foreground;
+  }
+}
