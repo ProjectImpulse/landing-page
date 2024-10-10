@@ -25,7 +25,6 @@ import {
 import { Button } from "@/components/ui/button";
 import { Separator } from "@/components/ui/separator";
 import { Menu } from "lucide-vue-next";  // Removed unused import: ChevronsDown
-import GithubIcon from "@/icons/GithubIcon.vue";
 import ToggleTheme from "./ToggleTheme.vue";
 import XIcon from "@/icons/XIcon.vue";
 

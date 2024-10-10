@@ -1,49 +1,5 @@
 <script setup lang="ts">
-import { ref, reactive } from "vue";
-import { Button } from "./ui/button";
-import { Card, CardHeader, CardContent, CardFooter } from "./ui/card";
-import { Label } from "./ui/label";
-import { Input } from "./ui/input";
-import {
-  Select,
-  SelectContent,
-  SelectGroup,
-  SelectItem,
-  SelectTrigger,
-  SelectValue,
-} from "./ui/select";
-import { Textarea } from "./ui/textarea";
-import { Alert, AlertDescription, AlertTitle } from "@/components/ui/alert";
-
-import { AlertCircle, Building2, Phone, Mail, Clock } from "lucide-vue-next";
 import Waitlist from "./Waitlist.vue";
-
-interface ContactFormeProps {
-  firstName: string;
-  lastName: string;
-  email: string;
-  subject: string;
-  message: string;
-}
-
-const contactForm = reactive<ContactFormeProps>({
-  firstName: "",
-  lastName: "",
-  email: "",
-  subject: "Web Development",
-  message: "",
-});
-
-const invalidInputForm = ref<boolean>(false);
-
-const handleSubmit = () => {
-  const { firstName, lastName, email, subject, message } = contactForm;
-  console.log(contactForm);
-
-  const mailToLink = `mailto:leomirandadev@gmail.com?subject=${subject}&body=Hello I am ${firstName} ${lastName}, my Email is ${email}. %0D%0A${message}`;
-
-  window.location.href = mailToLink;
-};
 </script>
 
 <template>
